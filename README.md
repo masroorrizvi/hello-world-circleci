@@ -1,2 +1,2 @@
 # hello-world-circleci
-Repo for hello world Circle CI -Syed
+Repo for hello world Circle CI
